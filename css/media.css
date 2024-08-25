@@ -151,6 +151,7 @@
   .contact form {
     background-color: #fff;
     width: 40%;
+    height: fit-content;
   }
   .contact .contact-info {
     display: flex;
